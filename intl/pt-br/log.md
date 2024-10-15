@@ -1,24 +1,25 @@
 # 100 Days Of Code - Log
 
-### Dia 0: 29 de fevereiro, 2016 (Exemplo 1)
-##### (me delete ou transforme em comentário)
+### Dia 1: 15 de outubro, 2024 
 
-**Progresso do dia:** Consertei CSS, trabalhei na funcionalidade canvas para o app.
+**Progresso do dia:** Revisei conceitos de protocolos de internet, simulei uma situação com servidores DNS e HTTP.
 
-**Aprendizados:** Eu realmente apanhei do CSS, mas sinto que estou progredindo e melhorando a cada dia. Canvas ainda é novo para mim, mas eu consegui compreender suas funcionalidades básicas..
+**Aprendizados:** Aprendi a configurar os servidores e domínios no Cisco Packet Tracer e editei os arquivos html dos sites, não parece ruim pra um dia 1.
 
-**Link do trabalho:** [App de calculadora](http://www.example.com)
+**Link do trabalho:**
+![image](https://github.com/user-attachments/assets/0c43341a-aabe-4774-bf5c-af0824d7e34b)
 
-### Dia 1: 30 de fevereiro, 2016 (Exemplo 2)
-##### (me delete ou transforme em comentário)
 
-**Progresso do dia:** Consertei CSS, trabalhei na funcionalidade canvas para o app.
+### Dia 2: 16 de outubro, 2024 
 
-**Aprendizados:** Eu realmente apanhei do CSS, mas sinto que estou progredindo e melhorando a cada dia. Canvas ainda é novo para mim, mas eu consegui compreender suas funcionalidades básicas..
+**Progresso do dia:** 
 
-**Link do trabalho:** [App de calculadora](http://www.example.com)
+**Aprendizados:**
 
-### Day 2: 1 de março, 2016 (Exemplo 2)
+**Link do trabalho:** 
+
+
+### Dia 3: 17 de outubro, 2024 
 
 **Progresso do dia:** Eu avancei em alguns exercícios do FreeCodeCamp.
 
