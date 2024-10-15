@@ -7,8 +7,13 @@
 **Aprendizados:** Aprendi a configurar os servidores e domínios no Cisco Packet Tracer e editei os arquivos html dos sites, não parece ruim pra um dia 1.
 
 **Link do trabalho:**
+
 ![image](https://github.com/user-attachments/assets/0c43341a-aabe-4774-bf5c-af0824d7e34b)
 
+**Links usados:**
+
+[Internet](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+[Configuração dos servidores](https://medium.com/@pedroferrari2004/cisco-packet-tracer-entendendo-os-protocolos-dhcp-dns-e-http-2234de02fe10)
 
 ### Dia 2: 16 de outubro, 2024 
 
