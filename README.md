@@ -28,6 +28,62 @@ If you want to help by providing a translation of content/rules in the language 
 9.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
 10. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
 
+## Logs
+
+| Dia    | Título   | Tempo |
+| ------------- | ------------- | ------------- |
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| 4 | | |
+| 5 | | |
+| 6 | | |
+| 7 | | |
+| 8 | | |
+| 9 | | |
+| 10 | | |
+| 11 | | |
+| 12 | | |
+| 13 | | |
+| 14 | | |
+| 15 | | |
+| 16 | | |
+| 17 | | |
+| 18 | | |
+| 19 | | |
+| 20 | | |
+| 21 | | |
+| 22 | | |
+| 23 | | |
+| 24 | | |
+| 25 | | |
+| 26 | | |
+| 27 | | |
+| 28 | | |
+| 29 | | |
+| 30 | | |
+| 31 | | |
+| 32 | | |
+| 33 | | |
+| 34 | | |
+| 35 | | |
+| 36 | | |
+| 37 | | |
+| 38 | | |
+| 39 | | |
+| 40 | | |
+| 41 | | |
+| 42 | | |
+| 43 | | |
+| 44 | | |
+| 45 | | |
+| 46 | | |
+| 47 | | |
+| 48 | | |
+| 49 | | |
+| 50 | | |
+| ... | | |
+
 ## ⚡ Interested in meaningfully changing your life & getting the results you want?
 
 I publish [Discomfort Academy Newsletter](https://discomfortacademy.substack.com/) every other week. It's main focus is providing practical tips and techniques for improving the quality of your life - drawing from a wide variety of themes, listed below.
