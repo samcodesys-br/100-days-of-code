@@ -1,30 +1,38 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Dia 1: 15 de outubro, 2024 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Progresso do dia:** Revisei conceitos de protocolos de internet, simulei uma situação com servidores DNS e HTTP.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Aprendizados:** Aprendi a configurar os servidores e domínios no Cisco Packet Tracer e editei os arquivos html dos sites, não parece ruim pra um dia 1.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link do trabalho:**
+[Projeto Cisco](001/dia 1 - https.pkt)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+![image](https://github.com/user-attachments/assets/0c43341a-aabe-4774-bf5c-af0824d7e34b)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Links usados:**
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+[Internet](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+[Configuração dos servidores](https://medium.com/@pedroferrari2004/cisco-packet-tracer-entendendo-os-protocolos-dhcp-dns-e-http-2234de02fe10)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### ~~Dia 2: 16 de outubro, 2024 (não cumprido) ~~
+
+### Dia 2: 17 de outubro, 2024 
+
+**Progresso do dia:** 
+
+**Aprendizados:**
+
+**Link do trabalho:** 
 
 
-### Day 1: June 27, Monday
+### Dia 3: 17 de outubro, 2024 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Progresso do dia:** Eu avancei em alguns exercícios do FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Aprendizados:** Comecei a programar recentemente e me dá um sentimento muito bom quando consigo resolver um algoritmo que me desafiou durante horas.
 
-**Link(s) to work**
+**Link(s) do(s) trabalho(s)**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
