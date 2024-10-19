@@ -22,19 +22,35 @@
 
 ### Dia 2: 17 de outubro, 2024 
 
-**Progresso do dia:** 
+**Progresso do dia:** Comecei o primeiro projeto pro meu portfólio usando uma API pública de versículos bíblicos, a princípio ela funciona para fazer uma busca por palavra
 
-**Aprendizados:**
+**Aprendizados:** Aprendi mais sobre a estrutura do package java.net.http de requisições do Java usando as classes HttpClient, HttpRequest e HttpResponse
 
-**Link do trabalho:** 
+**Link do trabalho:**
+[Buscador de versículos](https://github.com/samcodesys-br/Buscador_de_versiculos)
 
+### Dia 3: 18 de outubro, 2024 
 
-### Dia 3: 17 de outubro, 2024 
+**Progresso do dia:** Organizei melhor o trabalho em pacotes e implementei alguns padrões de projeto para facilitar a leitura
 
-**Progresso do dia:** Eu avancei em alguns exercícios do FreeCodeCamp.
-
-**Aprendizados:** Comecei a programar recentemente e me dá um sentimento muito bom quando consigo resolver um algoritmo que me desafiou durante horas.
+**Aprendizados:** Implementei os padrões Factory, para criar uma classe HttpRequest, Adapter, para converter a response de json para um objeto Verse, Singleton, para criar uma única instância de cliente e Facade, para "encobrir" todas as outras classes
 
 **Link(s) do(s) trabalho(s)**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Buscador de versículos](https://github.com/samcodesys-br/Buscador_de_versiculos)
+2. [Refactoring Guru](https://refactoring.guru/design-patterns)
+
+### Dia 4: 19 de outubro, 2024
+
+**Progresso do dia:** 
+
+**Aprendizados:** 
+
+**Link(s) do(s) trabalho(s)**
+
+### Dia 5: 20 de outubro, 2024
+
+**Progresso do dia:**
+
+**Aprendizados:** 
+
+**Link(s) do(s) trabalho(s)**
