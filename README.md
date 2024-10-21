@@ -14,7 +14,7 @@
 | 1 | Prática servidores HTTP e DNS                                                                                 | 00:40 hora  |
 | 2 | Primeiro Projeto - API de bíblia digital [link](https://github.com/samcodesys-br/Buscador_de_versiculos)      | 01:20 horas |
 | 3 | Continuação do projeto API de bíblia digital [link](https://github.com/samcodesys-br/Buscador_de_versiculos)  | 03:00 horas |
-| 4 |                                                                                                               |             |
+| 4 |                                                                                              Continuação do projeto API de bíblia digital [link](https://github.com/samcodesys-br/Buscador_de_versiculos)                  |     00:40 hora        |
 | 5 |                                                                                                               |             |
 | 6 |                                                                                                               |             |
 | 7 |                                                                                                               |             |
